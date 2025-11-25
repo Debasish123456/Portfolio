@@ -21,7 +21,7 @@ A clean, modern, and fully responsive personal portfolio website built using **R
 
 ### 📸 Demo Screenshots
 
-![Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
+![Portfolio Desktop Demo](./public/readme-images/portfolios.png "Desktop Demo")
 
 ---
 
